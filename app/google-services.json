@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "431947367683",
+    "project_id": "my-food-order-app-fddfa",
+    "storage_bucket": "my-food-order-app-fddfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431947367683:android:45c665a5a78913811c1536",
+        "android_client_info": {
+          "package_name": "com.dataflair.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431947367683-2en4f2727tfpabp1qqueq0c26hp6igm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dataflair.fooddeliveryapp",
+            "certificate_hash": "60f380959652e833b2126c518f2bc002920f4511"
+          }
+        },
+        {
+          "client_id": "431947367683-afnhg8a45pnauqehroocgidp89jiul1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkGEojqLE95RfYMoTl69Eheulte_eolVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431947367683-afnhg8a45pnauqehroocgidp89jiul1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
